@@ -1,6 +1,4 @@
-bankSimulatorWithCircularqueue
-
-이 프로그램은 원형 큐(Circular Queue) 자료구조를 이용해 은행 창구와 같은 서비스 시스템을 흉내 내는 시뮬레이션입니다. 👨‍💻
+이 프로그램은 원형 큐(Circular Queue) 자료구조를 이용해 은행 창구와 같은 서비스 시스템을 흉내 내는 시뮬레이션입니다.
 
 1. 기본 구조 (큐 정의)
 
